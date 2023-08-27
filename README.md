@@ -1,16 +1,13 @@
-# expense_tracker
+#EXPENSE TRACKER APP
+An android app developed using Flutter framework in which you can add and delete your expenses based on Title, Amount, Category, and pick date of expense. 
+Developed keeping a monochromatic and retro feel in mind 
+Concepts and features used:
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  1. Widgets: Card, ListView, TextField, Dismissible, ModalBottomSheet SingleChildScrollView, Scaffold(appbar), Row, Column, Buttons,
+  2. Representing category-wise expenses in bar chart, based on user input
+  3. User input validation and dialog presentation
+  4. safeAreas (camera cut out) protection
+  5. Responsive and Adaptive UI for device rotation
+  6. Gestures to delete expenses
+  7. SnackBars for mistaken deletes with undo option
+  8. Widget Theming
