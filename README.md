@@ -9,4 +9,4 @@ Concepts and features used:
   5. Responsive and Adaptive UI for device rotation
   6. Gestures to delete expenses
   7. SnackBars for mistaken deletes with undo option
-  8. 
+  8. Widget Theming
