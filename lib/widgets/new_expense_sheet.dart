@@ -107,7 +107,7 @@ class _NewExpenseAddState extends State<NewExpenseAdd> {
             padding: EdgeInsets.fromLTRB(20, 20, 20, keyboardSpace + 20),
             child: Column(
               children: [
-                if (deviceWidth >= 60)
+                if (deviceWidth >= 600)
                   Row(
                     children: [
                       Expanded(
